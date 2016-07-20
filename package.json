@@ -1,0 +1,12 @@
+{
+  "name"         : "Facebook Scraper",
+  "version"      : "0.0.1",
+  "description"  : "Facebook Scraper",
+  "main"         : "server.js",
+  "author"       : "Jordan",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
